@@ -7,9 +7,9 @@ package com.kaymoura.exemplotrycatch;
 
 /** Um índice sempre começa com 0 e termina com o número de
 *elementos na matriz -1. Por exemplo, a matriz acima  
-*consiste em 7 elementos, portanto seus índices começam a 
-*partir de 0 e terminam com 6 (7-1). Tentar acessar um 
-*elemento com um índice inferior a 0 ou mais de 6 fará 
+*consiste em 4 elementos, portanto seus índices começam a 
+*partir de 0 e terminam com 3 (4-1). Tentar acessar um 
+*elemento com um índice inferior a 0 ou mais de 3 fará 
 *com que Java lance um ArrayOutOfBounds.
 */
 
